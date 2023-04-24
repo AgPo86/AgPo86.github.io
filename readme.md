@@ -1,5 +1,5 @@
 # CV
-Strona na potrzeby kursu tworzenia aplikacji internetowych. 
+Strona w rozbudowie. 
 # Moje dane
 Napisałam coś o sobie.
 # Dalsza treść
